@@ -1,1 +1,2 @@
 # PowerBI_Adventure_works
+Uses a raw CSV file to create an interactive dashboard that provides insights on a business's performance. The dashboard uses KPI cards to highlight important metrics, such as revenue, orders, and return rates, on a weekly and monthly basis. The project's business objectives include: Identifying high-value clients, Evaluating regional performance, Analyzing product trends, and Making forecasts.
